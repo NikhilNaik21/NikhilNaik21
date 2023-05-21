@@ -6,6 +6,21 @@
 
 
 
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nikhilnaik211097/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/viral_bite?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/nikhilnaik5966" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+</div>
+
+
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Nikhil Naik</h1><br><h3 align="center">A passionate amateur developer from Goa</h3><br>Currently learning:  DSA using java
 
@@ -31,7 +46,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nikhilnaik21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=nikhilnaik21&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
