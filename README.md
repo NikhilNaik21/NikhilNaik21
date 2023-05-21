@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Viral_bite) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhilnaik211097/) 
-[![HackerRank](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=HackerRank&logoColor=white)(https://www.hackerrank.com/nikhilnaik5966))
+[![HackerRank](https://img.shields.io/badge/HackerRank-%23E4405F.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nikhilnaik5966)
 
 
 # 💻 Tech Stack:
