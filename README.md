@@ -20,15 +20,13 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nikhilnaik21.nikhilnaik21&"  />
+</div>
+
 
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Nikhil Naik</h1><br><h3 align="center">A passionate amateur developer from Goa</h3><br>Currently learning:  DSA using java
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Viral_bite) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhilnaik211097/) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-teal.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nikhilnaik5966)
-
+<h1 align="center">Hi 👋, I'm Nikhil Naik</h1><br><h3 align="center">A passionate amateur developer from Goa</h3><br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
