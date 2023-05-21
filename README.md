@@ -36,11 +36,17 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)
 
+  <div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilnaik21&theme=vision-friendly-dark&hide_border=false)
+
 </div>
-<div align="center">
- ![](https://github-readme-stats.vercel.app/api?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)</div><br/> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nikhilnaik21&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+  <div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nikhilnaik21&theme=radical&no-frame=true&no-bg=false&margin-w=4)
