@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Nikhil Naik from Goa ,India and I am working on my programming skills. I enjoy learning languages like java, SQL, javascript.
+I'm Nikhil Naik from Goa ,India and I am working on my programming skills.
+I enjoy learning languages like java.
 
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilNaik21&theme=dark&show_icons=true)![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikhilNaik21&theme=dark&show_icons=true)
 Here are some ideas to get you started:
