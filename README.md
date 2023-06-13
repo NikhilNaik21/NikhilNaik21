@@ -74,6 +74,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NikhilNaik21)](https://github.com/NikhilNaik21/github-readme-activity-graph)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nikhilnaik21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
