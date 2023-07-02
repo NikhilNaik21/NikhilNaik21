@@ -37,8 +37,8 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
   ![MYSQL](https://img.shields.io/badge/Mysql-blue.svg?style=plastic&logo=Mysql&logoColor=white)
-  ![Selenium](https://img.shields.io/badge/Mysql-blue.svg?style=plastic&logo=Selenium&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Mysql-blue.svg?style=plastic&logo=Spring&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/selenium-blue.svg?style=plastic&logo=Selenium&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-blue.svg?style=plastic&logo=Spring&logoColor=white)
   <br>
 # 📊 GitHub Stats:
 
