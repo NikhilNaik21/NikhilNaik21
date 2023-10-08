@@ -13,8 +13,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://nikhilnaikportfolio.000webhostapp.com/" target="_blank">
-<!-- <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio-logo&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" /> -->
-    <i class="bi bi-person-circle"></i> 
+<!--  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio-logo&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" /> 
+    <i class="bi bi-person-circle"></i>  -->
+     < <i class="bi bi-person-circle"></i> alt="Portfolio" /> 
+
   </a>
   <a href="https://www.hackerrank.com/nikhilnaik5966" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
