@@ -18,11 +18,13 @@
   <a href="https://www.hackerrank.com/nikhilnaik5966" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-</div>
 
-  <a href="https://www.hackerrank.com/nikhilnaik5966" target="_blank">
+   <a href="https://leetcode.com/NikhilNaik21/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
   </a>
+
+</div>
+
 
 
 <div align="center">
