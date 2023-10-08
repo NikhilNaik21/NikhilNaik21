@@ -20,7 +20,7 @@
   </a>
 
    <a href="https://leetcode.com/NikhilNaik21/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
+<img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
   </a>
 
 </div>
