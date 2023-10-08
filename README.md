@@ -21,7 +21,7 @@
 </div>
 
   <a href="https://www.hackerrank.com/nikhilnaik5966" target="_blank">
-<img src="[URL_OR_PATH_TO_LEETCODE_LOGO](https://www.google.com/url?sa=i&url=https%3A%2F%2Fleetcode.com%2F&psig=AOvVaw2B_fc4lDtPFSRVLaTT6Boh&ust=1696869894813000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCz9ZDz5oEDFQAAAAAdAAAAABAf )" height="25" alt="LeetCode logo" />
+<img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
   </a>
 
 
