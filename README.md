@@ -66,13 +66,8 @@
 
 
 
-<div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=nikhilnaik21&theme=vision-friendly-dark&hide_border=false)
 
-
-  <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilnaik21&theme=vision-friendly-dark&hide_border=false)
 
 </div>
 
