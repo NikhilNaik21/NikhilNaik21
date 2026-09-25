@@ -1,212 +1,92 @@
-<div align="center">
+\<div align="center">
+  \<!-- \<img height="150" src="[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966)" /> -->
+\</div>
 
-# 👋 Hi, I'm Nikhil Naik
+\<br/>
 
-### Backend Developer | .NET | Microservices | Cloud | AI/GenAI
+\<div align="center"> 
 
-<p>
-  <a href="https://www.linkedin.com/in/nikhilnaik211097/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://nikhilrnaikportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.hackerrank.com/nikhilnaik5966" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://leetcode.com/NikhilNaik21/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
+\<a href="[https://www.linkedin.com/in/nikhilnaik211097/](https://www.linkedin.com/in/nikhilnaik211097/)" target="\_blank">
+  \<img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://img.shields.io/static/v1?message=LinkedIn\&logo=linkedin\&label=\&color=0077B5\&logoColor=white\&labelColor=\&style=for-the-badge)" height="25" alt="linkedin logo" />
+\</a>
+\<a href="[https://nikhilrnaikportfolio.netlify.app/](https://nikhilrnaikportfolio.netlify.app/)" target="\_blank">
+  \<img src="[https://img.shields.io/static/v1?message=Portfolio&logo=portfolio-logo&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge](https://img.shields.io/static/v1?message=Portfolio\&logo=portfolio-logo\&label=\&color=E4405F\&logoColor=white\&labelColor=\&style=for-the-badge)" height="25" alt="Portfolio" />
+\</a>
+\<a href="[https://www.hackerrank.com/nikhilnaik5966](https://www.hackerrank.com/nikhilnaik5966)" target="\_blank">
+  \<img src="[https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge](https://img.shields.io/static/v1?message=HackerRank\&logo=hackerrank\&label=\&color=2EC866\&logoColor=white\&labelColor=\&style=for-the-badge)" height="25" alt="hackerrank logo" />
+\</a>
+\<a href="[https://leetcode.com/NikhilNaik21/](https://leetcode.com/NikhilNaik21/)" target="\_blank">
+  \<img src="[https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://img.shields.io/static/v1?message=LeetCode\&logo=leetcode\&label=\&color=0077B5\&logoColor=white\&labelColor=\&style=for-the-badge)" height="25" alt="LeetCode logo" />
+\</a>
 
-<img src="https://komarev.com/ghpvc/?username=nikhilnaik21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+\</div>
 
-</div>
+\<br/>
 
----
+\<div align="center">
+  \<img src="[https://visitor-badge.laobi.icu/badge?page_id=nikhilnaik21.nikhilnaik21](https://visitor-badge.laobi.icu/badge?page_id=nikhilnaik21.nikhilnaik21)" />
+\</div>
 
-## 👨‍💻 About Me
+\---
 
-I'm a **Backend Developer from Goa, India**, passionate about building
-scalable applications and exploring cloud and AI-powered solutions.
+\<h1 align="center">Hi 👋, I'm Nikhil Naik\</h1>
+\<h3 align="center">A passionate amateur developer from Goa\</h3>
 
-- 🔭 Working with **.NET, ASP.NET Core & Microservices**
-- 🌱 Exploring **Generative AI, RAG & LLM applications**
-- ☁️ Learning and working with **Microsoft Azure & AWS**
-- 🗄️ Working with **PostgreSQL & SQL Server**
-- 🔌 Building **REST APIs & distributed backend services**
-- 🧠 Interested in **Cloud Architecture & AI integration**
-- ♟️ Chess enthusiast
+\---
 
----
+\## 💻 Tech Stack
 
-## 💻 Tech Stack
+\<div align="center">
+  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" height="30" width="42" alt="html5 logo" />
+  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)" height="30" width="42" alt="css3 logo" />
+  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)" height="30" width="42" alt="bootstrap logo" />
+  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" height="30" width="42" alt="javascript logo" />
+  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)" height="30" width="42" alt="c logo" />
+  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)" height="30" width="42" alt="java logo" />
+  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)" height="30" width="42" alt="mysql logo" />
+  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" height="30" width="42" alt="postgresql logo" />
+\</div>
 
-### 🔹 Languages
+\---
 
-<div align="center">
+\## 📊 GitHub Stats
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-     height="45"
-     width="45"
-     alt="C#"/>
+\<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-     height="45"
-     width="45"
-     alt="JavaScript"/>
+\<a href="[https://github-readme-stats.vercel.app/api?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false](https://github-readme-stats.vercel.app/api?username=nikhilnaik21\&theme=vision-friendly-dark\&hide_border=false\&include_all_commits=true\&count_private=false)">
+  \<img src="[https://github-readme-stats.vercel.app/api?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false](https://github-readme-stats.vercel.app/api?username=nikhilnaik21\&theme=vision-friendly-dark\&hide_border=false\&include_all_commits=true\&count_private=false)" alt="GitHub Stats" />
+\</a>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-     height="45"
-     width="45"
-     alt="HTML5"/>
+\<br/>\<br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-     height="45"
-     width="45"
-     alt="CSS3"/>
+\<img src="[https://github-readme-streak-stats-eight.vercel.app/?user=nikhilnaik21&theme=vision-friendly-dark&hide_border=false](https://github-readme-streak-stats-eight.vercel.app/?user=nikhilnaik21\&theme=vision-friendly-dark\&hide_border=false)" alt="GitHub Streak" />
 
-</div>
+\<br/>\<br/>
 
----
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnaik21\&theme=vision-friendly-dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)" alt="Top Languages" />
 
-### 🔹 Backend & Frameworks
+\</div>
 
-<div align="center">
+\---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
-     height="50"
-     width="50"
-     alt=".NET"/>
+\## 🏆 GitHub Trophies
 
-</div>
+\<div align="center">
+  \<img src="[https://github-profile-trophy.vercel.app/?username=nikhilnaik21&theme=algolia&no-frame=false&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=nikhilnaik21\&theme=algolia\&no-frame=false\&no-bg=true\&margin-w=4)" alt="GitHub Trophies" />
+\</div>
 
-<p align="center">
+\---
 
-<strong>
-ASP.NET Core • Web API • Entity Framework Core • REST APIs • Microservices
-</strong>
+\## ✍️ Random Dev Quote
 
-</p>
+\<div align="center">
+  \<img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)" alt="Random Dev Quote" />
+\</div>
 
----
+\---
 
-### 🔹 Databases
+\## 🔝 Top Contributed Repo
 
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-     height="50"
-     width="50"
-     alt="PostgreSQL"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-     height="50"
-     width="50"
-     alt="SQL Server"/>
-
-</div>
-
-<p align="center">
-
-<strong>PostgreSQL • SQL Server • SSMS • Entity Framework Core</strong>
-
-</p>
-
----
-
-### 🔹 Cloud
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
-     height="50"
-     width="50"
-     alt="Microsoft Azure"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-     height="55"
-     width="55"
-     alt="AWS"/>
-
-</div>
-
-<p align="center">
-
-<strong>Microsoft Azure • AWS • Cloud Services • Cloud Architecture</strong>
-
-</p>
-
----
-
-### 🔹 AI & Generative AI
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"
-     alt="Generative AI"/>
-
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"
-     alt="RAG"/>
-
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"
-     alt="LLMs"/>
-
-<img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge"
-     alt="Azure AI"/>
-
-</div>
-
-<p align="center">
-
-<strong>
-Generative AI • RAG • Large Language Models • Embeddings • Prompt Engineering • Azure AI
-</strong>
-
-</p>
-
----
-
-### 🔹 Tools & Version Control
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-     height="45"
-     width="45"
-     alt="Git"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-     height="45"
-     width="45"
-     alt="GitHub"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
-     height="45"
-     width="45"
-     alt="Visual Studio"/>
-
-</div>
-
----
-
-## 🎓 Certifications & Learning
-
-### ☁️ Microsoft Azure
-
-**Azure AI-103 — Preparing**
-
-Currently preparing for the Azure AI certification/examination.
-
-### 📚 Currently Exploring
-
-- 🤖 Generative AI
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🔗 LLM Applications
-- ☁️ Microsoft Azure
-- ☁️ AWS
-- 🏗️ Cloud Architecture
-- 🔄 Distributed Systems & Microservices
-
----
-
+\<div align="center">
+  \<img src="[https://github-contributor-stats.vercel.app/api?username=nikhilnaik21&limit=5&theme=algolia&combine_all_yearly_contributions=true](https://github-contributor-stats.vercel.app/api?username=nikhilnaik21\&limit=5\&theme=algolia\&combine_all_yearly_contributions=true)" alt="Top Contributed Repo" />
+\</div>
