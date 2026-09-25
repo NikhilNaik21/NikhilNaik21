@@ -1,92 +1,92 @@
-\<div align="center">
-  \<!-- \<img height="150" src="[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966)" /> -->
-\</div>
+<div align="center">
+<!-- <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" /> -->
+</div>
 
-\<br/>
+<br/>
 
-\<div align="center"> 
+<div align="center">
 
-\<a href="[https://www.linkedin.com/in/nikhilnaik211097/](https://www.linkedin.com/in/nikhilnaik211097/)" target="\_blank">
-  \<img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://img.shields.io/static/v1?message=LinkedIn\&logo=linkedin\&label=\&color=0077B5\&logoColor=white\&labelColor=\&style=for-the-badge)" height="25" alt="linkedin logo" />
-\</a>
-\<a href="[https://nikhilrnaikportfolio.netlify.app/](https://nikhilrnaikportfolio.netlify.app/)" target="\_blank">
-  \<img src="[https://img.shields.io/static/v1?message=Portfolio&logo=portfolio-logo&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge](https://img.shields.io/static/v1?message=Portfolio\&logo=portfolio-logo\&label=\&color=E4405F\&logoColor=white\&labelColor=\&style=for-the-badge)" height="25" alt="Portfolio" />
-\</a>
-\<a href="[https://www.hackerrank.com/nikhilnaik5966](https://www.hackerrank.com/nikhilnaik5966)" target="\_blank">
-  \<img src="[https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge](https://img.shields.io/static/v1?message=HackerRank\&logo=hackerrank\&label=\&color=2EC866\&logoColor=white\&labelColor=\&style=for-the-badge)" height="25" alt="hackerrank logo" />
-\</a>
-\<a href="[https://leetcode.com/NikhilNaik21/](https://leetcode.com/NikhilNaik21/)" target="\_blank">
-  \<img src="[https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://img.shields.io/static/v1?message=LeetCode\&logo=leetcode\&label=\&color=0077B5\&logoColor=white\&labelColor=\&style=for-the-badge)" height="25" alt="LeetCode logo" />
-\</a>
+<a href="https://www.linkedin.com/in/nikhilnaik211097/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
+<a href="https://nikhilrnaikportfolio.netlify.app/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio-logo&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
+</a>
+<a href="https://www.hackerrank.com/nikhilnaik5966" target="_blank">
+<img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
+</a>
+<a href="https://leetcode.com/NikhilNaik21/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
+</a>
 
-\</div>
+</div>
 
-\<br/>
+<br/>
 
-\<div align="center">
-  \<img src="[https://visitor-badge.laobi.icu/badge?page_id=nikhilnaik21.nikhilnaik21](https://visitor-badge.laobi.icu/badge?page_id=nikhilnaik21.nikhilnaik21)" />
-\</div>
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nikhilnaik21.nikhilnaik21" />
+</div>
 
-\---
+---
 
-\<h1 align="center">Hi 👋, I'm Nikhil Naik\</h1>
-\<h3 align="center">A passionate amateur developer from Goa\</h3>
+<h1 align="center">Hi 👋, I'm Nikhil Naik</h1>
+<h3 align="center">A passionate amateur developer from Goa</h3>
 
-\---
+---
 
-\## 💻 Tech Stack
+## 💻 Tech Stack
 
-\<div align="center">
-  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)" height="30" width="42" alt="html5 logo" />
-  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)" height="30" width="42" alt="css3 logo" />
-  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)" height="30" width="42" alt="bootstrap logo" />
-  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)" height="30" width="42" alt="javascript logo" />
-  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)" height="30" width="42" alt="c logo" />
-  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)" height="30" width="42" alt="java logo" />
-  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)" height="30" width="42" alt="mysql logo" />
-  \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)" height="30" width="42" alt="postgresql logo" />
-\</div>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo" />
+</div>
 
-\---
+---
 
-\## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://github-readme-stats.vercel.app/api?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false](https://github-readme-stats.vercel.app/api?username=nikhilnaik21\&theme=vision-friendly-dark\&hide_border=false\&include_all_commits=true\&count_private=false)">
-  \<img src="[https://github-readme-stats.vercel.app/api?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false](https://github-readme-stats.vercel.app/api?username=nikhilnaik21\&theme=vision-friendly-dark\&hide_border=false\&include_all_commits=true\&count_private=false)" alt="GitHub Stats" />
-\</a>
+<a href="https://github-readme-stats.vercel.app/api?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false">
+<img src="https://github-readme-stats.vercel.app/api?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+</a>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img src="[https://github-readme-streak-stats-eight.vercel.app/?user=nikhilnaik21&theme=vision-friendly-dark&hide_border=false](https://github-readme-streak-stats-eight.vercel.app/?user=nikhilnaik21\&theme=vision-friendly-dark\&hide_border=false)" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=nikhilnaik21&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak" />
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnaik21\&theme=vision-friendly-dark\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 
-\</div>
+</div>
 
-\---
+---
 
-\## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-\<div align="center">
-  \<img src="[https://github-profile-trophy.vercel.app/?username=nikhilnaik21&theme=algolia&no-frame=false&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=nikhilnaik21\&theme=algolia\&no-frame=false\&no-bg=true\&margin-w=4)" alt="GitHub Trophies" />
-\</div>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nikhilnaik21&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
-\---
+---
 
-\## ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
-\<div align="center">
-  \<img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)" alt="Random Dev Quote" />
-\</div>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
-\---
+---
 
-\## 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 
-\<div align="center">
-  \<img src="[https://github-contributor-stats.vercel.app/api?username=nikhilnaik21&limit=5&theme=algolia&combine_all_yearly_contributions=true](https://github-contributor-stats.vercel.app/api?username=nikhilnaik21\&limit=5\&theme=algolia\&combine_all_yearly_contributions=true)" alt="Top Contributed Repo" />
-\</div>
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=nikhilnaik21&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
