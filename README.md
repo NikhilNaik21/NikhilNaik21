@@ -54,7 +54,6 @@
 <div align="center">
 
 <a href="https://github-readme-stats.vercel.app/api?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false">
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilnaik21&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </a>
 
 <br/><br/>
@@ -69,13 +68,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilnaik21&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
 
 ## ✍️ Random Dev Quote
 
