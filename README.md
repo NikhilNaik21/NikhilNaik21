@@ -27,147 +27,186 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Backend Developer from Goa, India**, interested in building scalable and reliable applications.
+I'm a **Backend Developer from Goa, India**, passionate about building
+scalable applications and exploring cloud and AI-powered solutions.
 
-- 🔭 Currently working with **.NET, ASP.NET Core & Microservices**
-- 🌱 Exploring **Generative AI, RAG & LLM-based applications**
+- 🔭 Working with **.NET, ASP.NET Core & Microservices**
+- 🌱 Exploring **Generative AI, RAG & LLM applications**
 - ☁️ Learning and working with **Microsoft Azure & AWS**
-- 🗄️ Experienced with **PostgreSQL & MySQL**
-- 🧩 Interested in **Distributed Systems, REST APIs & Cloud Architecture**
-- 💡 Enjoy solving problems and continuously learning new technologies
-- ♟️ Outside of coding, I enjoy **Chess**
+- 🗄️ Working with **PostgreSQL & SQL Server**
+- 🔌 Building **REST APIs & distributed backend services**
+- 🧠 Interested in **Cloud Architecture & AI integration**
+- ♟️ Chess enthusiast
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 💻 Languages
+### 🔹 Languages
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+     height="45"
+     width="45"
+     alt="C#"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+     height="45"
+     width="45"
+     alt="JavaScript"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+     height="45"
+     width="45"
+     alt="HTML5"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+     height="45"
+     width="45"
+     alt="CSS3"/>
+
+</div>
+
+---
+
+### 🔹 Backend & Frameworks
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+     height="50"
+     width="50"
+     alt=".NET"/>
+
+</div>
+
+<p align="center">
+
+<strong>
+ASP.NET Core • Web API • Entity Framework Core • REST APIs • Microservices
+</strong>
+
 </p>
 
-### ⚙️ Backend & Frameworks
+---
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+### 🔹 Databases
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+     height="50"
+     width="50"
+     alt="PostgreSQL"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+     height="50"
+     width="50"
+     alt="SQL Server"/>
+
+</div>
+
+<p align="center">
+
+<strong>PostgreSQL • SQL Server • SSMS • Entity Framework Core</strong>
+
 </p>
 
-**ASP.NET Core • Web API • Entity Framework Core • REST APIs • Microservices**
+---
 
-### 🗄️ Databases
+### 🔹 Cloud
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+     height="50"
+     width="50"
+     alt="Microsoft Azure"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+     height="55"
+     width="55"
+     alt="AWS"/>
+
+</div>
+
+<p align="center">
+
+<strong>Microsoft Azure • AWS • Cloud Services • Cloud Architecture</strong>
+
 </p>
 
-### ☁️ Cloud & DevOps
+---
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Microsoft Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+### 🔹 AI & Generative AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"
+     alt="Generative AI"/>
+
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"
+     alt="RAG"/>
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"
+     alt="LLMs"/>
+
+<img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge"
+     alt="Azure AI"/>
+
+</div>
+
+<p align="center">
+
+<strong>
+Generative AI • RAG • Large Language Models • Embeddings • Prompt Engineering • Azure AI
+</strong>
+
 </p>
 
-**Microsoft Azure • AWS • Docker • Git • GitHub**
+---
 
-### 🤖 AI & Generative AI
+### 🔹 Tools & Version Control
 
-**Generative AI • Large Language Models (LLMs) • RAG • Prompt Engineering • AI APIs**
+<div align="center">
 
-Currently exploring:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+     height="45"
+     width="45"
+     alt="Git"/>
 
-- 🔹 Retrieval-Augmented Generation (RAG)
-- 🔹 Vector Search & Embeddings
-- 🔹 LLM-powered applications
-- 🔹 Azure AI services
-- 🔹 AI integration with .NET applications
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+     height="45"
+     width="45"
+     alt="GitHub"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
+     height="45"
+     width="45"
+     alt="Visual Studio"/>
+
+</div>
 
 ---
 
 ## 🎓 Certifications & Learning
 
-### Microsoft Azure AI
+### ☁️ Microsoft Azure
 
-🔹 **Azure AI-103 — Preparing**
+**Azure AI-103 — Preparing**
 
-> Currently preparing for the Azure AI certification/examination.
+Currently preparing for the Azure AI certification/examination.
 
-### Currently Learning
+### 📚 Currently Exploring
 
+- 🤖 Generative AI
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔗 LLM Applications
 - ☁️ Microsoft Azure
 - ☁️ AWS
-- 🤖 Generative AI
-- 🧠 RAG & LLM Applications
-- 🏗️ Cloud-native Architecture
-- 🔄 Distributed Systems
+- 🏗️ Cloud Architecture
+- 🔄 Distributed Systems & Microservices
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilnaik21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilnaik21&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilnaik21&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilnaik21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilnaik21&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-## 🚀 Featured Interests
-
-```text
-.NET / ASP.NET Core
-        ↓
-REST APIs & Microservices
-        ↓
-PostgreSQL / MySQL
-        ↓
-Docker & Cloud
-        ↓
-Azure / AWS
-        ↓
-Generative AI
-        ↓
-RAG + LLM Applications
