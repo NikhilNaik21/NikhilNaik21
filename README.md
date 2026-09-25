@@ -75,8 +75,3 @@
 
 ---
 
-## 🔝 Top Contributed Repo
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=nikhilnaik21&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
